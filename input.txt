@@ -1,0 +1,35 @@
+TAKE SEAT, gunjan, 4, 09/10/2017 12:44:39
+TAKE SEAT, madhu, 2, 09/10/2017 12:44:47
+TAKE SEAT, nidhi, 3, 09/10/2017 12:45:12
+TAKE SEAT, keya, 1, 09/10/2017 12:45:40
+ANTE, 0
+GAME STARTED, gameId: 241713100001, activePlayers: 4, 09/10/2017 12:45:43, chipsType: real, tableId: 2417131, tableName: STT4#2417131, maxPlayer: 4, minPlayer: 4, gameType: STT, bettingRule: NL, buyInLow: 11, buyInHigh: 11, smallBlind: 10, bigBlind: 20, ante: 0, 1, db.CpWinningAmount@725e2944, housefees: 4, 1000
+SB, madhu, 10, sb
+BB, nidhi, 20, bb
+HOLE CARD, keya, 1, 1000, 8c 4s 
+HOLE CARD, madhu, 2, 1000, Th 6c 
+HOLE CARD, nidhi, 3, 1000, 6d 6s 
+HOLE CARD, gunjan, 4, 1000, Jc Qd
+USER TURN, gunjan, timedout, 0, 09/10/2017 12:46:14
+USER TURN, keya, called, 20, 09/10/2017 12:46:25
+USER TURN, madhu, called, 10, 09/10/2017 12:46:26
+USER TURN, nidhi, called, 0, 09/10/2017 12:46:28
+POT INFO,  keya madhu nidhi, 60, PREFLOP
+COMMUNITY CARD, FLOP, 2d 9h 9d
+USER TURN, madhu, called, 0, 09/10/2017 12:46:37
+USER TURN, nidhi, called, 0, 09/10/2017 12:46:41
+USER TURN, keya, called, 0, 09/10/2017 12:46:43
+POT INFO,  keya madhu nidhi, 60, FLOP
+COMMUNITY CARD, TURN, 5s
+USER TURN, madhu, called, 0, 09/10/2017 12:46:54
+USER TURN, nidhi, called, 0, 09/10/2017 12:47:03
+USER TURN, keya, called, 0, 09/10/2017 12:47:04
+POT INFO,  keya madhu nidhi, 60, TURN
+COMMUNITY CARD, RIVER, 7c
+USER TURN, madhu, called, 0, 09/10/2017 12:47:06
+USER TURN, nidhi, called, 0, 09/10/2017 12:47:14
+USER TURN, keya, called, 0, 09/10/2017 12:47:15
+POT INFO,  keya madhu nidhi, 60, RIVER
+POT INFO,  keya madhu nidhi, 60, SHOW
+POT INFO,  keya madhu nidhi, 60, SHOW 2
+WINNER INFO, nidhi, 60, Two Pair, 9h 9d 6d 6s 7c
